@@ -11,6 +11,13 @@ Sample Application and Rubric
 Specific Questions (breaking up of the project task)
 The project contains two main parts: designing the framework for new modules and development of individual modules 
 
+Landlab Background Links:
+
+[Background on the model grid data model used in Landlab](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/master/grid_object_demo/grid_object_demo.ipynb)
+
+[Teach yourself Landlab](https://github.com/landlab/landlab/wiki/Teach-Yourself-Landlab!)
+
+
 ## 1. The Framework
 The repository contains curriculum developed for geo-spatio-temporal analysis using open source research software.
 
@@ -47,12 +54,27 @@ The goal is/was to explore possible teaching resources for graduate level studen
 
 ###  Rose's Module
 
-Detect blue whales! Let's try to merge again... 
-Here is another line!
+This tutorial is an introduction on how to use spectrogram cross-correlation to detect blue whale calls. This tutorial is meant primarily for individuals with at least an introductory understanding of Python to familiarize themselves with the one of the processes used in acoustic signal detection. 
 
+**Workflow tools in the tutorial:**
 
-### Christina's Modules
+-Python: Numpy, Scipy, and Matplotlib libraries
 
+-Jupyter notebook
+
+-Github
+
+**Key tutorial outcomes:**
+
+-Experimentation with key scientific python libraries
+
+-Introduction to timeseries analysis
+
+-Familiarization with spectrograms
+
+-Understand basic reasoning behind signal detection
+
+**Link to the tutorial github repository:** https://github.com/rosehilmo/whale-detection 
 
 
 ### Helen Xarray Module
@@ -69,6 +91,19 @@ Save it as netCDF files format
 
 Export the point of interest for this netCDF file
 
+### Christina's Modules
 
+[Background on the model grid data model used in Landlab](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/master/grid_object_demo/grid_object_demo.ipynb)
+
+[Teach yourself Landlab](https://github.com/landlab/landlab/wiki/Teach-Yourself-Landlab!)
+
+Test the Modules from this HydroShare Resource (requires HydroShare UserID to use the cloud compute resources to run interactive models from CUAHSI JupyterHub). 
+[Lowering the barriers to Computational Modeling of the Earth Surface](https://www.hydroshare.org/resource/70b977e22af544f8a7e5a803935c329c/)
+
+Sign in/Sign up at www.hydroshare.org. Go to Collaborate. Search for the Landlab Group. Join. Go to Resources. 
+
+Click on the resource above. Use blue upper right button to 'OPEN WITH'. Select JupyterHub. 
+
+Execute Welcome to connect to HydroShare. Click on Jupyter Notebook of interest.  
 
 
